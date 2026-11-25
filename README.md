@@ -80,24 +80,30 @@ Everything profiled for Agentic Mermaid is published on APIs.io rather than in t
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentic-mermaid-dev-mcp.yml](https://apis.io/servers/agentic-mermaid-dev/agentic-mermaid-dev-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentic Mermaid Dev Authentication](https://apis.io/security/agentic-mermaid-dev/agentic-mermaid-dev-authentication/)
-- [Agentic Mermaid Dev Domain Security](https://apis.io/security/agentic-mermaid-dev/agentic-mermaid-dev-domain-security/)
+- [Agentic Mermaid Authentication](https://apis.io/security/agentic-mermaid-dev/agentic-mermaid-dev-authentication/)
+- [Agentic Mermaid Domain Security](https://apis.io/security/agentic-mermaid-dev/agentic-mermaid-dev-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentic Mermaid Dev Scopes](https://apis.io/scopes/agentic-mermaid-dev/agentic-mermaid-dev-scopes/)
+- [Agentic Mermaid Scopes](https://apis.io/scopes/agentic-mermaid-dev/agentic-mermaid-dev-scopes/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentic Mermaid Dev Rate Limits](https://apis.io/rate-limits/agentic-mermaid-dev/agentic-mermaid-dev-rate-limits/)
+- [Agentic Mermaid Rate Limits](https://apis.io/rate-limits/agentic-mermaid-dev/agentic-mermaid-dev-rate-limits/)
 
 ## Where to find this API
 
@@ -109,18 +115,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.6** — emerging · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 18.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 44.2 |
+| Operational transparency | 42.9 |
 | Developer ergonomics | 35.7 |
 | Access clarity | 0.0 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 5.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -146,8 +152,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentic-mermaid-dev/](https://apis.io/providers/agentic-mermaid-dev/).
 
